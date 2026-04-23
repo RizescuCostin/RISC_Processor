@@ -1,0 +1,24 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Alex/Desktop/Vivado/Projects/DSD_Project/DSD_Project.srcs/sources_1/new/DATA_MEM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DATA_MEMORY
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Alex/Desktop/Vivado/Projects/DSD_Project/DSD_Project.srcs/sources_1/new/ER.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ER
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Alex/Desktop/Vivado/Projects/DSD_Project/DSD_Project.srcs/sources_1/new/EXECUTE.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EXECUTE
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Alex/Desktop/Vivado/Projects/DSD_Project/DSD_Project.srcs/sources_1/new/FETCH.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FETCH
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Alex/Desktop/Vivado/Projects/DSD_Project/DSD_Project.srcs/sources_1/new/IR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IR
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Alex/Desktop/Vivado/Projects/DSD_Project/DSD_Project.srcs/sources_1/new/PROG_MEM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PROG_MEM
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Alex/Desktop/Vivado/Projects/DSD_Project/DSD_Project.srcs/sources_1/new/READ.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module READ
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Alex/Desktop/Vivado/Projects/DSD_Project/DSD_Project.srcs/sources_1/new/REGS.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module REGS
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Alex/Desktop/Vivado/Projects/DSD_Project/DSD_Project.srcs/sources_1/new/RR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RR
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Alex/Desktop/Vivado/Projects/DSD_Project/DSD_Project.srcs/sources_1/new/TOP.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TOP
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Alex/Desktop/Vivado/Projects/DSD_Project/DSD_Project.srcs/sources_1/new/WRITE_BACK.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module WRITE_BACK
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Alex/Desktop/Vivado/Projects/DSD_Project/DSD_Project.srcs/sim_1/new/TOP_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TOP_tb

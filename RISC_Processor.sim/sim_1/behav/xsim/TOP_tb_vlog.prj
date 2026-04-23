@@ -1,0 +1,20 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../DSD_Project.srcs/sources_1/new" \
+"../../../../DSD_Project.srcs/sources_1/new/DATA_MEM.v" \
+"../../../../DSD_Project.srcs/sources_1/new/ER.v" \
+"../../../../DSD_Project.srcs/sources_1/new/EXECUTE.v" \
+"../../../../DSD_Project.srcs/sources_1/new/FETCH.v" \
+"../../../../DSD_Project.srcs/sources_1/new/IR.v" \
+"../../../../DSD_Project.srcs/sources_1/new/PROG_MEM.v" \
+"../../../../DSD_Project.srcs/sources_1/new/READ.v" \
+"../../../../DSD_Project.srcs/sources_1/new/REGS.v" \
+"../../../../DSD_Project.srcs/sources_1/new/RR.v" \
+"../../../../DSD_Project.srcs/sources_1/new/TOP.v" \
+"../../../../DSD_Project.srcs/sources_1/new/WRITE_BACK.v" \
+"../../../../DSD_Project.srcs/sim_1/new/TOP_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
